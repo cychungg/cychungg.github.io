@@ -1,16 +1,46 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# 6
+- project: "Shortcut-V2V: Compression Framework for Video-to-Video Translation based on Temporal Redundancy Reduction"
+  role: International Conference on Computer Vision (ICCV), 2023.
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Chaeyeon Chung*, Yeojeong Park*, Seunghwan Choi, Munkhsoyol Ganbat, and Jaegul Choo
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# 5
+- project: "Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment"
+  role: European Conference on Computer Vision (ECCV), 2022.
+  url: "https://arxiv.org/abs/2208.07765"
+  description: Taewoo Kim*, Chaeyeon Chung*, Yoonseo Kim*, Sunghyun Park, Kangyeol Kim, and Jaegul Choo
+
+# 4
+- project: "DASH: Visual Analytics for Debiasing Image Classification via User-Driven Synthetic Data Augmentation"
+  role: EG/VGTC Conference on Visualization (EuroVis), Short Paper, 2022. Honorable Mention Award.
+  url: "https://research.ibm.com/publications/dash-visual-analytics-for-debiasing-image-classification-via-user-driven-synthetic-data-augmentation"
+  description: Bum Chul Kwon, Jungsoo Lee, Chaeyeon Chung, Nyoungwoo Lee, Ho-Jin Choi, and Jaegul Choo
+
+# 3
+- project: "HairFIT: Pose-Invariant Hairstyle Transfer via Flow-based Hair Alignment and Semantic-Region-Aware Inpainting"
+  role: British Machine Vision Conference (BMVC), 2021. Accepted as Oral Presentation (3.6% acceptance rate).
+  url: "https://www.bmvc2021-virtualconference.com/assets/papers/0579.pdf"
+  description: Chaeyeon Chung*, Taewoo Kim*, Hyelin Nam*, Seunghwan Choi, Gyojung Gu, Sunghyun Park, and Jaegul Choo
+
+# 2
+- project: "K-Hairstyle: A Large-Scale Korean Hairstyle Dataset for Virtual Hair Editing and Hairstyle Classification"
+  role: IEEE International Conference on Image Processing (ICIP), 2021.
+  url: "https://psh01087.github.io/K-Hairstyle/"
+  description: Taewoo Kim*, Chaeyeon Chung*, Sunghyun Park*, Gyojung Gu, Keonmin Nam, Wonzo Choe, Jaesung Lee, and Jaegul Choo
+
+# 1
+- project: "Understanding Human-side Impact of Sampling Image Batches in Subjective Attribute Labeling"
+  role: ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW), 2021.
+  url: "https://dl.acm.org/doi/abs/10.1145/3476037"
+  description: Chaeyeon Chung*, Jungsoo Lee*, Kyungmin Park, Junsoo Lee, Minjae Kim, Mookyung Song, Yeonwoo Kim, Jaegul Choo, and Sungsoo Ray Hong
+
+
+# # Springfield Community Outreach Group
+# - project: Springfield Community Outreach Group
+#   role: Co-Founder & Organizer
+#   duration: 2007 &mdash; Present
+#   # url: "#"
+#   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
