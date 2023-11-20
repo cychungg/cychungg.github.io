@@ -1,17 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# 6
+# 7
 - project: "Shortcut-V2V: Compression Framework for Video-to-Video Translation based on Temporal Redundancy Reduction"
   role: International Conference on Computer Vision (ICCV), 2023.
-  # url: "#"
+  url: "https://arxiv.org/abs/2308.08011"
   description: Chaeyeon Chung*, Yeojeong Park*, Seunghwan Choi, Munkhsoyol Ganbat, and Jaegul Choo
 
-# 5
+# 6
 - project: "Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment"
   role: European Conference on Computer Vision (ECCV), 2022.
   url: "https://arxiv.org/abs/2208.07765"
   description: Taewoo Kim*, Chaeyeon Chung*, Yoonseo Kim*, Sunghyun Park, Kangyeol Kim, and Jaegul Choo
+
+# 5
+- project: "3D-GIF: 3D-Controllable Object Generation via Implicit Factorized Representations"
+  role: arXiv, 2022.
+  url: "https://arxiv.org/abs/2203.06457"
+  description: Minsoo Lee, Chaeyeon Chung, Hojun Cho, Minjung Kim, Sanghun Jung, Jaegul Choo, and Minhyuk Sung
 
 # 4
 - project: "DASH: Visual Analytics for Debiasing Image Classification via User-Driven Synthetic Data Augmentation"
