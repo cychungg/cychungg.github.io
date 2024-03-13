@@ -1,6 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# 8
+- project: "Enhancing Intrinsic Features for Debiasing via Investigating Class-Discerning Common Attributes in Bias-Contrastive Pair"
+  role: Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+  url: "https://cychungg.github.io/"
+  description: Jeonghoon Park*, Chaeyeon Chung*, Juyoung Lee, and Jaegul Choo
+
 # 7
 - project: "Shortcut-V2V: Compression Framework for Video-to-Video Translation based on Temporal Redundancy Reduction"
   role: International Conference on Computer Vision (ICCV), 2023.
