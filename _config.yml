@@ -20,7 +20,7 @@ resume_contact_email:           "cy_chung@kaist.ac.kr"
 # resume_contact_telephone:       "555-7334"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "Email: cy_chung[at]kaist[dot]ac[dot]kr / [Curriculum Vitae (CV)](https://cychungg.github.io/) "
+resume_header_contact_info:     "cy_chung[at]kaist[dot]ac[dot]kr"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Hello, I am a PhD candidate at Kim Jaechul Graduate School of Artificial Intelligence, Korea Advanced Institute of Science and Technology (KAIST).</p>"
