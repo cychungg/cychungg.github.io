@@ -1,6 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# 9
+- project: "What to Preserve and What to Transfer: Faithful, Identity-Preserving Diffusion-based Hairstyle Transfer"
+  role: Under Review, 2024.
+  url: "https://arxiv.org/abs/2408.16450"
+  description: Chaeyeon Chung, Sunghyun Park, Jeongho Kim, and Jaegul Choo
+
 # 8
 - project: "Enhancing Intrinsic Features for Debiasing via Investigating Class-Discerning Common Attributes in Bias-Contrastive Pair"
   role: Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
