@@ -23,7 +23,7 @@ resume_contact_email:           "chaeyeonc@nvidia.com"
 resume_header_contact_info:     "chaeyeonc[at]nvidia[dot]com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hi, I am a Research Engineer at [NVIDIA Digital Human Technology](https://www.nvidia.com/en-us/use-cases/digital-humans/), currently focusing on Audio2Face. I earned PhD at Kim Jaechul Graduate School of Artificial Intelligence, Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. [Jaegul Choo](https://sites.google.com/site/jaegulchoo/).</p>"
+resume_header_intro: "<p>Hi, I am a Research Engineer at NVIDIA Digital Human Technology, currently focusing on Audio2Face. I earned PhD at Kim Jaechul Graduate School of Artificial Intelligence, Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Jaegul Choo.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
