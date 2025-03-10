@@ -14,16 +14,16 @@ resume_name:                    "Chaeyeon Chung"
 resume_title:                   "About Me"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "cy_chung@kaist.ac.kr"
+resume_contact_email:           "chaeyeonc@nvidia.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 # resume_contact_telephone:       "555-7334"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "cy_chung[at]kaist[dot]ac[dot]kr"
+resume_header_contact_info:     "chaeyeonc[at]nvidia[dot]com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hello, I am a PhD candidate at Kim Jaechul Graduate School of Artificial Intelligence, Korea Advanced Institute of Science and Technology (KAIST).</p>"
+resume_header_intro: "<p>Hi, I am a Research Engineer at [NVIDIA Digital Human Technology](https://www.nvidia.com/en-us/use-cases/digital-humans/), currently focusing on Audio2Face. I earned PhD at Kim Jaechul Graduate School of Artificial Intelligence, Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. [Jaegul Choo](https://sites.google.com/site/jaegulchoo/).</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
