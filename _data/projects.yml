@@ -1,6 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# 10
+- project: "Fair Generation without Unfair Distortions: Debiasing Text-to-Image Generation with Entanglement-Free Attention"
+  role: International Conference on Computer Vision (ICCV), 2025.
+  url: "https://arxiv.org/abs/2506.13298"
+  description: Jeonghoon Park, Juyoung Lee, Chaeyeon Chung, Jaeseong Lee, Jaegul Choo, Jindong Gu
+
 # 9
 - project: "What to Preserve and What to Transfer: Faithful, Identity-Preserving Diffusion-based Hairstyle Transfer"
   role: The Association for the Advancement of Artificial Intelligence (AAAI), 2025.
