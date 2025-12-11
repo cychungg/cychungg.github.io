@@ -1,6 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# 11
+- project: "Audio2Face-3D: Audio-driven Realistic Facial Animation For Digital Avatars"
+  role: arXiv, 2025.
+  url: "https://arxiv.org/abs/2508.16401"
+  description: NVIDIA: Chaeyeon Chung, Ilya Fedorov, Michael Huang, Aleksey Karmanov, Dmitry Korobchenko, Roger Ribera, Yeongho Seol
+
 # 10
 - project: "Fair Generation without Unfair Distortions: Debiasing Text-to-Image Generation with Entanglement-Free Attention"
   role: International Conference on Computer Vision (ICCV), 2025.
