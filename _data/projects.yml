@@ -2,10 +2,10 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # 12
-  - project: "Kimodo: Controllable 3D Human Motion Generation at Scale"
-    role: "arXiv, 2026."
-    url: "https://research-staging.nvidia.com/labs/sil/projects/kimodo/"
-    description: "NVIDIA"
+- project: "Kimodo: Controllable 3D Human Motion Generation at Scale"
+  role: "arXiv, 2026."
+  url: "https://research-staging.nvidia.com/labs/sil/projects/kimodo/"
+  description: "NVIDIA"
 
 # 11
 - project: "Audio2Face-3D: Audio-driven Realistic Facial Animation For Digital Avatars"
